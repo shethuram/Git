@@ -155,9 +155,9 @@ This confirms:
 
 📸 Output:
 
-![Initial Commit](./assets/git-01-1.png)
+![](screenshots/output1.png)
 
-![Branch Merge](./assets/git-01-2.png)
+![](screenshots/output2.png)
 
 ---
 
