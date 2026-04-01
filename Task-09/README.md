@@ -157,6 +157,16 @@ Fast-forward
 
 ---
 
+### Task outputs
+
+![](screenshots/output1.png)
+---
+
+![](screenshots/output2.png)
+---
+
+![](screenshots/output3.png)
+
 ## ✅ Final Result
 
 * Local repo connected to remote
